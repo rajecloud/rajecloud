@@ -2,7 +2,7 @@
 
 👋 **Hi there, I’m Raj..!**
 
-📫 [**LinkedIn**](https://www.linkedin.com/in/esakkiraj-karthi/)
+📫 [Follow me on **LinkedIn**](https://www.linkedin.com/in/esakkiraj-karthi/)
 
 > "DevOps is not a goal, but a never-ending process of continual improvement"
 
