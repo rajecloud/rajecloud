@@ -15,7 +15,6 @@
 
 📫 Ask and Reach me for DevOps Implementation, Security, Practices and Strategies
 
-
 ## Certifications
 
 - AWS Certified DevOps Engineer Professional.
@@ -34,6 +33,8 @@ Python Automation code for Lambda(AWS) and Cloud Function(GCP)
 
 Jenkins bootstrap with groovy init
 
+Best Site Reliability Engineering Security Practices
+
 ## OS Stack
 
 - Linux (Ubuntu, CentOs, RHEL)
@@ -49,9 +50,3 @@ Jenkins bootstrap with groovy init
 - Packer
 - ELK
 - Prometheus
-
-## 📘 Book To Read
-
-Best DevOps Security Practices
-
-Site Reliability Engineering
