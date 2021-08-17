@@ -1,6 +1,14 @@
 
 
-👋 **Hi there, I’m Raj..!**
+### Hi there, I’m Raj..! 👋
+
+### Bio :
+
+Passionate certified Cloud and DevOps Enthusiast with 5+ years of demonstrate experience in overall IT and expertise in implementing, developing and managing DevOps and Cloud based practices and strategies in various level of organization environments. Adaptive to Cloud Strategies based on AWS and GCP.
+
+Expertise experienced on designing, deploying and operating highly available, scalable and fault tolerant systems on Cloud platforms and Proficient in developing CI/CD end to end full Automation for exsiting running production or new legacy and cloud setup environments. 
+
+Possess high working qualities with good Interpersonal skills, Strategic Thinker, Quick learner, Good Team player and Very proactive in problem solving to provide best solutions.
 
 📫 Follow me on [**LinkedIn**](https://www.linkedin.com/in/esakkiraj-karthi/)
 
