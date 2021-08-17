@@ -2,9 +2,11 @@
 
 👋 Hi there, I’m Raj..!
 
-📫 <img src="{https://img.shields.io/badge/EsakkiRajLinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+📫 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
-  "DevOps is not a goal, but a never-ending process of continual improvement"
+![EsakkiRajLinkedIn]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+"DevOps is not a goal, but a never-ending process of continual improvement"
 
 
 Overview
