@@ -1,4 +1,3 @@
-- 
 
 
 👋 Hi there, I’m Raj..!
@@ -17,13 +16,13 @@ Overview
 
 Certifications
 
-AWS Certified DevOps Engineer Professional.
-AWS Certified Solution Architect Associate.
-Certified Kubernetes Administrator(CKA).
-Hashicorp Certified Terraform Associate.
-GCP Associate Cloud Engineer.
-Oracle Certified Cloud Infra Architect Associate.
-Srum Foundation Professional Certified.
+- AWS Certified DevOps Engineer Professional.
+- AWS Certified Solution Architect Associate.
+- Certified Kubernetes Administrator(CKA).
+- Hashicorp Certified Terraform Associate.
+- GCP Associate Cloud Engineer.
+- Oracle Certified Cloud Infra Architect Associate.
+- Srum Foundation Professional Certified.
 
 ✔️ I'm currently learning
 
